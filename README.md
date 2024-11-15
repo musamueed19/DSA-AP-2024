@@ -9,7 +9,7 @@ git clone https://github.com/musamueed19/DSA-AP-2024.git
 <br><br>
 
 > [!TIP]
-> Advice: You must try to implement the DSA in other Technology (like Java, Python, etc).
+> Advice: You must try to implement the DSA in other Technologies (like Java, Python, etc).
 
 ## Wanna run the Code? Copy this below command.
 ```
