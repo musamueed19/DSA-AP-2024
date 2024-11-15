@@ -1,7 +1,7 @@
 # DSA-AP-2024 
 >Created At: 15-Nov-2024, 09:09 pm
 
-## Copy below cmd to clone the repo & Start learning DSA
+## Want this Repo? Clone using below command. 
 ```
 git clone https://github.com/musamueed19/DSA-AP-2024.git
 ```
@@ -11,7 +11,7 @@ git clone https://github.com/musamueed19/DSA-AP-2024.git
 > [!TIP]
 > You can implement the DSA in any other Technology (Java, Python).
 
-## To Execute the code file, copy this below cmd.
+## Wanna run the Code? Copy this below command.
 ```
 node filename
 ```
