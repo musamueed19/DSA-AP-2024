@@ -11,7 +11,7 @@ git clone https://github.com/musamueed19/DSA-AP-2024.git
 > [!TIP]
 > Advice: You must try to implement the DSA in other Technologies (like Java, Python, etc).
 
-## Wanna run the Code? Copy this below command.
+## Wanna run the Code? Run this below command.
 ```
 node filename
 ```
