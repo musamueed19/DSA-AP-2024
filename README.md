@@ -5,8 +5,15 @@
 ```
 git clone https://github.com/musamueed19/DSA-AP-2024.git
 ```
+
+<br><br>
+
+> [!TIP]
+> You can implement the DSA in any other Technology (Java, Python).
+
 ## To Execute the code file, copy this below cmd.
 ```
 node filename
 ```
+
 
