@@ -33,14 +33,14 @@
 
 let n = 5
 
-function sumToN(n) {
+function sumToN(n, start = 0) {
     if (!Number(n) || n < 0) {
         console.log("'n' must be non-negative integer; n >= 0");
         return;  
     }
     let sum = 0;
-    for (let i = 0; i <= n; i++)
-        sum += i;
+    for (start; start <= n; start++)
+        sum += start;
     console.log(sum);
 }
 
